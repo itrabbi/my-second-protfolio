@@ -1,0 +1,16 @@
+.list-item {
+    margin-right: 3rem;
+    list-style: none;
+    padding: 15px;
+}
+
+.list-item a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.list-item a:hover {
+    color: #ff014f;
+    ;
+}
